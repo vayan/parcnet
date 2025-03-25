@@ -1,4 +1,4 @@
-module github.com/0xPARC/parcnet/go
+module github.com/vayan/parcnet/go
 
 go 1.22
 

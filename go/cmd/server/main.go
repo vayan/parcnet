@@ -8,10 +8,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/0xPARC/parcnet/go/pod"
 	"github.com/google/uuid"
 	"github.com/joho/godotenv"
 	"github.com/redis/go-redis/v9"
+	"github.com/vayan/parcnet/go/pod"
 )
 
 var (

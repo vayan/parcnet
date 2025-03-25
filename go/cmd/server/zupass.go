@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/0xPARC/parcnet/go/pod"
+	"github.com/vayan/parcnet/go/pod"
 )
 
 type PCDAddRequest struct {

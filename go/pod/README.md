@@ -21,13 +21,13 @@ Package `pod` provides functionality to create and verify a cryptographically si
 To install this package, run:
 
 ```bash
-go get github.com/0xPARC/parcnet/go/pod@v0.1.1
+go get github.com/vayan/parcnet/go/pod@v0.1.1
 ```
 
 Then import it in your Go code:
 
 ```go
-import "github.com/0xPARC/parcnet/go/pod"
+import "github.com/vayan/parcnet/go/pod"
 ```
 
 ## Types
@@ -96,7 +96,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/0xPARC/parcnet/go/pod"
+    "github.com/vayan/parcnet/go/pod"
 )
 
 func main() {
